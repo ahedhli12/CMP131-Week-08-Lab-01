@@ -8,8 +8,8 @@ Read [CMP131-Week-08-Lab-01.md](CMP131-Week-08-Lab-01.md) completely before begi
 
 ## Required Files
 
-- `sales_bar_chart.py`
 - `loop_patterns.py`
+- `sales_bar_chart.py`
 - `AI-Use-Policy.md`
 - `AI-Use-Report.md`
 
@@ -18,7 +18,7 @@ Keep all Python files directly in the repository root. Do not create a `src` fol
 ## Student Workflow
 
 1. Create your own repository from this starter when the template option is available.
-2. Clone your own repository to your computer.
+2. Clone your own repository.
 3. Open the entire folder in Visual Studio Code.
 4. Complete and test the assignment.
 5. Commit and push your work.

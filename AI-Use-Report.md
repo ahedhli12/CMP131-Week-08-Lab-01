@@ -18,6 +18,8 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 ## Tool Used
 
+Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
+
 Tool:
 
 ## Assistance Requested
